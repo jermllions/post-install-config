@@ -49,7 +49,7 @@ In this lab i Created Os Ticket in azure virtual Machine as the nane of the OS t
 
 
 
-Download Os Ticket Files to install
+Next i Downloaded Os Ticket Files to install the application to open tickets and login as users.
 <img width="1366" height="768" alt="Screenshot 2026-03-16 154729" src="https://github.com/user-attachments/assets/20fd2d30-0bff-430b-9bfa-751fe0f46544" />
 
 
