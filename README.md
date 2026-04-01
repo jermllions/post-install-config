@@ -83,18 +83,18 @@ Next i will add a new role as Supreme Admin
 
 
 
-Create One Admin and two useres to open and configure Tickets
-<img width="1366" height="768" alt="OsTicket1 (1)" src="https://github.com/user-attachments/assets/0d351b1f-369b-410f-93b4-7d692e9ef3b3" />
 
 
 
 
 
 
+Under Supreme Admin i will now add permissions.
 
 
 
 
+<img width="1366" height="768" alt="Supreme Admin" src="https://github.com/user-attachments/assets/bbf7ec5b-95b6-468a-90b1-82d0041a1cd6" />
 
 
 
