@@ -52,12 +52,13 @@ In this lab i will Configure Roles under the admin panel for grouping permission
 
 
 
-Next i Downloaded Os Ticket Files to install the application to open tickets and login as users.
-<img width="1366" height="768" alt="Screenshot 2026-03-16 154729" src="https://github.com/user-attachments/assets/20fd2d30-0bff-430b-9bfa-751fe0f46544" />
+Next i will add a new role as Supreme Admin 
 
 
 
 
+
+<img width="1366" height="768" alt="Screenshot 2026-04-01 205142" src="https://github.com/user-attachments/assets/51f7ae7a-572a-4d1d-8a91-2a55113716c1" />
 
 
 
