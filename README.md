@@ -114,4 +114,16 @@ Under Supreme Admin i will now add permissions.
 
 
 
-View Ticket dashboard as Admin and agents <img width="1366" height="768" alt="Screenshot 2026-03-16 154535" src="https://github.com/user-attachments/assets/65c1d245-fd93-4457-bbee-e9ac4e169d0a" />
+
+
+
+
+
+
+
+
+Last i will Configure SLA Tickets BY severity level
+
+
+<img width="1366" height="768" alt="Screenshot 2026-04-01 231405" src="https://github.com/user-attachments/assets/05131f0b-9f5c-4372-a96f-0e693a432064" />
+
