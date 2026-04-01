@@ -29,7 +29,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 
-In this lab i Created Os Ticket in azure virtual Machine as the nane of the OS ticket name. <img width="1360" height="638" alt="OSTicket1" src="https://github.com/user-attachments/assets/c4403220-c360-4f80-b32f-ed89bedcc58d" />
+In this lab i will Configure Roles under the admin panel for grouping permissions
+
+ . <img width="1366" height="768" alt="AGENT 2" src="https://github.com/user-attachments/assets/273d149a-e1ea-41a0-96e3-a29a56c533d0" />
+
 
 
 
